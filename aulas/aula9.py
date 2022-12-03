@@ -18,7 +18,8 @@ print('Exponenciação', exponenciacao)
 
 modulo = 55 % 2  # resto da divisão
 print('Módulo', modulo)
-
+''' 
+Para saber se um número é divisível por outro, ou múltilpo, é só fazer desse jeito, se der zero, é porque sim, é divisível, se não for, não é.'''
 print(10 % 8 == 0)
 print(16 % 8 == 0)
 print(10 % 2 == 0)
